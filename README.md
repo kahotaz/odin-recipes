@@ -1,2 +1,3 @@
 # odin-recipes
-# COMMENTAIRZ VIAGIT " CODE . "
+# Voir ce que l'on a appris
+#
